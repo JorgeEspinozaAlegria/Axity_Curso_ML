@@ -1,4 +1,6 @@
-# Bienvenidos al curso "Curso de Machine Learning"
+![png](imagenes/logotipo-axity-ppt.png)
+
+# Bienvenidos al curso "Machine Learning"
 
 ## Duración y Horarios
 
@@ -10,8 +12,8 @@
 
 ### Instructor:
 Jorge Alberto Espinoza Alegría  
-Data Scientist  
-Business Analytics  
+Arquitecto  
+Analytics  
 jorge.espinoza@axity.com  
 5510696542  
 
@@ -36,4 +38,4 @@ Participantes ....
 
 ### Día 3
 
-- Lección 05  - Reglas de Asociación
+- Lección 05 - Reglas de Asociación

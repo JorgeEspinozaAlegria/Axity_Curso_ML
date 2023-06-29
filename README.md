@@ -1,3 +1,5 @@
+![png](imagenes/logotipo-axity-ppt.png)
+
 # Axity_Curso_ML
 
 
@@ -32,7 +34,7 @@ Está orientado a todos aquellos colaboradores o consultores cuyas actividades e
 
     - Mínimo 25 GB disponibles en disco
 
-- Tener instalado anaconda 3.7
+- Tener instalado anaconda 3.7 o utilizar Google Colab `https://colab.research.google.com/`
 
 - Durante curso, el participante deberá descargar el archivo `Curso_ML.zip` que se encuentra en este repositorio `https://github.com/JorgeEspinozaAlegria/Axity_Curso_ML`
 
